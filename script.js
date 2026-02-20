@@ -1,5 +1,5 @@
 // ============================
-// Lilla Odessa - Scripts
+// Lilla Odesa - Scripts
 // ============================
 
 document.addEventListener('DOMContentLoaded', () => {
